@@ -1,0 +1,13 @@
+Anakin Skywalker, M, 27, INTJ, Linux
+Nostalgia Critic, M, 28, ENTJ, Linux
+Marty Stepp, M, 30, ISTJ, Linux
+Perfect Cell, M, 35, INTJ, Windows
+Jiren Grey, M, 40, INTP, Mac OS
+Ichigo Kurosaki, M, 19, ESTP, Windows
+Tifa Lockhart, F, 23, ENTP, Windows
+Nina Williams, F, 43, INFP, Mac OS
+Cammy White, F, 28, ISTP, Linux
+Chizuru Ichinose, F, 20, INFJ, Mac OS
+Mami Nanami, F, 21, ESTP, Mac OS
+Kazumi Hachijo, F, 31, ISTP, WIndows
+
